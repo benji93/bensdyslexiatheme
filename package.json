@@ -1,0 +1,22 @@
+{
+    "name": "bensdyslexiatheme",
+    "displayName": "bensdyslexiatheme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "benfell",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "bensdyslexiatheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bensdyslexiatheme-color-theme.json"
+            }
+        ]
+    }
+}
