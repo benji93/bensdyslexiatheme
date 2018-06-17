@@ -3,9 +3,9 @@
 ## Primary Color
 
 color     | appearence |  Notes     |  newColor 
-#193549   | 22       |  Primary    |
-#ffffff    | 11       |  Secondary  |
-#0d3a58   | 23       |  
+#193549   | 22       |  Primary   |   #EBE7D6
+#ffffff    | 11       |  Secondary  |  #406098
+#0d3a58   | 23       |           |  #D0DFC1
 #000     | 4        |
 #afada5   | 1        |
 #ffc600   | 24       |
@@ -51,6 +51,5 @@ color     | appearence |  Notes     |  newColor
 #1F466280 | 1         |
 #406179cc | 1         |
 #027dff   | 1         |
-
 
 
