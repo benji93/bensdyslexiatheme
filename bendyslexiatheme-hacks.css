@@ -1,0 +1,17 @@
+.monaco-shell {
+    font-family: "OpenDyslexicAlta";
+    font-size: 16px;
+    letter-spacing: 0.1px;
+}
+
+.vs-dark .monaco-panel-view .panel > .panel-header > .title {
+    font-family: "OpenDyslexicAlta";
+    font-weight: normal;
+    letter-spacing: 0.1px;
+}
+
+.monaco-workbench .tabs-container .tab * {
+    font-family: "OpenDyslexicAlta";
+    letter-spacing: 0.1px;
+    font-style: italic;
+}
